@@ -1,0 +1,31 @@
+//An example Address posted to the \Addresses\ Endpoint
+
+//Example POST Format
+
+{
+  "AddressLine1": "Centrepoint",
+  "AddressLine2": "Marshall Stevens Way",
+  "AddressLine3": "Trafford Park",
+  "AddressLine4": "Greater Manchester",
+  "Country": "UK",
+  "PostCode": "M17 1PP"
+}
+
+/*Example Return Value
+
+{
+    "status": "Processed",                                                                                                // Status
+    "message": "Ok",
+    "queueEntryId": 523170026900282,                                                                                      // API Post ID
+    "items": [
+        {
+            "id": 4333682576187,                                                                                          // Address ID (PK)                  
+            "typeName": "Address",                                                                                        // System Type
+            "info": "Centrepoint, Marshall Stevens Way, Trafford Park, Greater Manchester, United Kingdom, M17 1PP"       // Address
+        }
+    ]
+}
+*/
+
+// When adding the address I figured it was almost impossible to search for a duplicate record therefore just add a new address and update the CashCustomer/DeliveryContact.
+

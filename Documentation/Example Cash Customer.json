@@ -1,0 +1,32 @@
+// An example Cash Customer posted to the \CashCustomers\ Endpoint
+// Example POST Format
+
+{
+  "FirstName": "Ryan",
+  "LastName": "Curran",
+  "EmailAddress": "rcurran@test.com",                       // This should be unique (PK)
+  "D_Division": "39232911374255618",                        // BEHRENS
+  "Phone": "01618721444",
+  "Branch": "4337916983871",                                // HQ
+  "Address": "4333682552311"                                // Address ID. See Example Address.json
+}
+
+/*Example Return Value
+
+{
+    "status": "Processed",                                  // Status
+    "message": "Ok",
+    "queueEntryId": 523170026900191,                        // API Post ID
+    "items": [
+        {
+            "id": 10522730449632,                           // Cash Customer ID
+            "typeName": "Cash Customer",                    // System Type
+            "info": "Curran,Ryan"                           // Address
+        }
+    ]
+}
+*/
+
+// When adding a cash customer you should first search on the EmailAddress to see if the record already exists. 
+// If the record exists use a PUT request to update the existing record.
+// If not use a POST request to add a new record.

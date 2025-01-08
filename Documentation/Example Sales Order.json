@@ -1,0 +1,59 @@
+// An example Sales Order posted to the \SalesOrders\ Endpoint
+// Example POST Format
+
+{
+  "AlternateReference": "BEH_TESTRC",                               // Required - Customer Reference (Web Order No)
+  "OrderType": "9247079131646",                                     // Required - Sales Order Type ID
+  "Customer": "8594243213789",                                      // Required - Customer ID
+  "Branch": "4337916983871",                                        // Required - Branch ID (HQ)
+  "DespatchBranch": "4337916983871",                                // Required - Despatch Branch ID (HQ)
+  "CashCustomer": "10522730449632",                                 // Required - Cash Customer ID (See Example Cash Customer.json)
+  "DeliveryContact": "8680189479926",                               // Required - Delivery Contact ID (See Example Customer Delivery Contact.json)
+  "D_Division": "39232911374255618",                                // Required - Order Division 
+  "Source": "9264244474964",                                        // Required - Order Source (E.g. Website Behrens/Website D&D)
+  "SalesRep": "8602833145265",                                      // Required - Sales Rep ID (E.g. Behrens Web Orders/D&D Web Orders)
+  "Currency": "4346506903774",                                      // Required - Currency (E.g. GBP/USD)
+  "TransactionExchangeRate": "1",                                   // 
+  "AccountExchangeRate": "1",                                       //  
+  "Promotion": "9921435029274",                                     //            Promotion ID (See Example Promotion.json)  
+  "DeliveryAgent": "4771713048715",                                 //            Delivery Agent ID
+  "DeliveryAgentService": "4776063191099",                          //            Delivery Agent Service ID
+  "DeliveryTaxRate": "4325032074116",                               //            Delivery Tax Rate
+  "DeliveryGrossAmount": "0",                                       //            Delivery Gross Amount
+  "Items": [
+    {
+      "Product": "DOZE1074",                                        // Required - Product ID
+      "Quantity": "1.0000",                                         // Required - Quantity Ordered
+      "SellingUnits": "Each",                                       // Required - Selling Units ID
+      "TaxRate": "4325032074116",                                   //            Tax Rate
+      "GrossPrice": "15",                                           //            Gross Price
+      "GrossPriceDiscountAmount": "1.5"                             //            Gross Price Discount (E.g. 10%)
+    },
+    {
+      "Product": "DOZE1071",                                        // Required - Product ID
+      "Quantity": "1.0000",                                         // Required - Quantity Ordered
+      "SellingUnits": "Carton",                                     // Required - Selling Units ID
+      "TaxRate": "4325032074116",                                   //            Tax Rate
+      "GrossPrice": "70",                                           //            Gross Price
+      "GrossPriceDiscountAmount": "7"                               //            Gross Price Discount (E.g. 10%)
+    }
+  ]
+}
+
+/*Example Return Value
+
+{
+    "status": "Processed",                                    // Status
+    "message": "Ok",                                          
+    "queueEntryId": 523170026900928,                          // API Post ID
+    "items": [
+        {
+            "id": 9234240261608,                              // Sales Order ID
+            "typeName": "Sales Order",                        // System Type
+            "info": "SO0138887"                               // Sales Order Number (IQ)
+        }
+    ]
+}
+*/
+
+// When adding a sales order you should first search on the Alternate Reference or ID if stored to see if the record already exists.

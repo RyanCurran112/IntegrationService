@@ -1,0 +1,27 @@
+// An example Sales Order posted to the \SalesPromotions\ Endpoint
+// Example POST Format
+
+{
+  "Code": "TESTRC",
+  "Description": "Test Promotion"
+}
+
+/*Example Return Value
+
+{
+    "status": "Processed",
+    "message": "Ok",
+    "queueEntryId": 523170026901273,
+    "items": [
+        {
+            "id": 9921435029274,
+            "typeName": "Sales Promotion",
+            "info": "TESTRC"
+        }
+    ]
+}
+*/
+
+// When adding a sales promotion you should first search on the Code to see if the record already exists. 
+// If the record exists use a PUT request to update the existing record.
+// If not use a POST request to add a new record.

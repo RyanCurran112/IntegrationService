@@ -1,0 +1,33 @@
+// An example Delivery Contact posted to the \CustomerDeliveryContacts2\ Endpoint
+// Example POST Format
+
+{
+  "FirstName": "rcurran@test.com",                    // Customer Email Address (PK)
+  "LastName": "M171PP",                               // Customer Postcode with No Spaces (PK)
+  "D_ContactName": "Ryan Curran",                     // Customer Delivery Contact Name
+  "CashCustomer": "10522730449632",                   // Cash Customer ID (See Example Cash Customer.json)
+  "Address": "4333682576187",                         // Customer Delivery Address (See Example Address.json
+  "EmailAddress": "rcurran@test.com",
+  "Phone": "01618721444",
+  "LookupCustomer": "8594243213789"                   // Customer ID 
+}
+
+/*Example Return Value
+
+{
+    "status": "Processed",                            // Status
+    "message": "Ok",
+    "queueEntryId": 523170026900469,                  // API Post ID
+    "items": [
+        {
+            "id": 8680189479926,                      // Customer Delivery Contact ID
+            "typeName": "Customer.Delivery Contact",  // System Type
+            "info": "rcurran@test.com M171PP"         // FirstName LastName
+        }
+    ]
+}
+*/
+
+// When adding a delivery contact you should first search on the email address (FirstName) and Postcode with no spaces (LastName) to see if the record already exists. 
+// If the record exists use a PUT request to update the existing record.
+// If not use a POST request to add a new record.

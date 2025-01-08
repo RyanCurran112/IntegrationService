@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "QIhlwKK8lo0VASmZK4Qj8l9cZa4AdR/N284FvEEU5R3ixlAneZILwTw7ZbD7MI1vL36jyAvcNKMy/vjUiGEW7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rcurran.BEHRENS\\Source\\Workspaces\\BehrensiQService-New\\Behrens_iQ_ClassLibrary\\Behrens_iQ_ClassLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rcurran.BEHRENS\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\2.9.4\\microsoft.codeanalysis.analyzers.2.9.4.nupkg.sha512",
+    "C:\\Users\\rcurran.BEHRENS\\.nuget\\packages\\restsharp\\106.6.10\\restsharp.106.6.10.nupkg.sha512",
+    "C:\\Users\\rcurran.BEHRENS\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\rcurran.BEHRENS\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\rcurran.BEHRENS\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

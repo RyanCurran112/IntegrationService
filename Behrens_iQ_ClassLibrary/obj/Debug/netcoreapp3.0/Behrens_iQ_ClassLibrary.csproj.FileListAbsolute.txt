@@ -1,0 +1,5 @@
+C:\Users\rcurran.BEHRENS\Source\Workspaces\BehrensiQService-New\Behrens_iQ_ClassLibrary\bin\Debug\netcoreapp3.0\Behrens_iQ_ClassLibrary.deps.json
+C:\Users\rcurran.BEHRENS\Source\Workspaces\BehrensiQService-New\Behrens_iQ_ClassLibrary\bin\Debug\netcoreapp3.0\Behrens_iQ_ClassLibrary.dll
+C:\Users\rcurran.BEHRENS\Source\Workspaces\BehrensiQService-New\Behrens_iQ_ClassLibrary\obj\Debug\netcoreapp3.0\Behrens_iQ_ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\rcurran.BEHRENS\Source\Workspaces\BehrensiQService-New\Behrens_iQ_ClassLibrary\obj\Debug\netcoreapp3.0\Behrens_iQ_ClassLibrary.AssemblyInfo.cs
+C:\Users\rcurran.BEHRENS\Source\Workspaces\BehrensiQService-New\Behrens_iQ_ClassLibrary\obj\Debug\netcoreapp3.0\Behrens_iQ_ClassLibrary.csprojAssemblyReference.cache

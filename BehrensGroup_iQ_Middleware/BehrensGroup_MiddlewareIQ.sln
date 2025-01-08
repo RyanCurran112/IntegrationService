@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BehrensGroup_ClassLibrary", "BehrensGroup_ClassLibrary\BehrensGroup_ClassLibrary.csproj", "{EDA70BB9-FAC7-494B-9454-75FD1A2A6F62}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BehrensGroup_MiddlewareIQ", "BehrensGroup_MiddlewareIQ\BehrensGroup_MiddlewareIQ.csproj", "{6FDACCD9-88B0-4EF4-9A0C-9D74AE0B87C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDA70BB9-FAC7-494B-9454-75FD1A2A6F62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDA70BB9-FAC7-494B-9454-75FD1A2A6F62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDA70BB9-FAC7-494B-9454-75FD1A2A6F62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDA70BB9-FAC7-494B-9454-75FD1A2A6F62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FDACCD9-88B0-4EF4-9A0C-9D74AE0B87C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FDACCD9-88B0-4EF4-9A0C-9D74AE0B87C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FDACCD9-88B0-4EF4-9A0C-9D74AE0B87C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FDACCD9-88B0-4EF4-9A0C-9D74AE0B87C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D1088B4-04B6-47D1-AD34-9B75EF9663D9}
+	EndGlobalSection
+EndGlobal

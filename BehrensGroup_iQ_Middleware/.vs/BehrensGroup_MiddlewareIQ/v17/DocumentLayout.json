@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ryanc\\OneDrive\\Learning\\C#\\BehrensiQService-New\\BehrensGroup_iQ_Middleware\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FDACCD9-88B0-4EF4-9A0C-9D74AE0B87C5}|BehrensGroup_MiddlewareIQ\\BehrensGroup_MiddlewareIQ.csproj|c:\\users\\ryanc\\onedrive\\learning\\c#\\behrensiqservice-new\\behrensgroup_iq_middleware\\behrensgroup_middlewareiq\\inbound\\objects\\productassemblies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FDACCD9-88B0-4EF4-9A0C-9D74AE0B87C5}|BehrensGroup_MiddlewareIQ\\BehrensGroup_MiddlewareIQ.csproj|solutionrelative:behrensgroup_middlewareiq\\inbound\\objects\\productassemblies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FDACCD9-88B0-4EF4-9A0C-9D74AE0B87C5}|BehrensGroup_MiddlewareIQ\\BehrensGroup_MiddlewareIQ.csproj|c:\\users\\ryanc\\onedrive\\learning\\c#\\behrensiqservice-new\\behrensgroup_iq_middleware\\behrensgroup_middlewareiq\\tools\\csvreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FDACCD9-88B0-4EF4-9A0C-9D74AE0B87C5}|BehrensGroup_MiddlewareIQ\\BehrensGroup_MiddlewareIQ.csproj|solutionrelative:behrensgroup_middlewareiq\\tools\\csvreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FDACCD9-88B0-4EF4-9A0C-9D74AE0B87C5}|BehrensGroup_MiddlewareIQ\\BehrensGroup_MiddlewareIQ.csproj|c:\\users\\ryanc\\onedrive\\learning\\c#\\behrensiqservice-new\\behrensgroup_iq_middleware\\behrensgroup_middlewareiq\\tools\\ftpfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FDACCD9-88B0-4EF4-9A0C-9D74AE0B87C5}|BehrensGroup_MiddlewareIQ\\BehrensGroup_MiddlewareIQ.csproj|solutionrelative:behrensgroup_middlewareiq\\tools\\ftpfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FDACCD9-88B0-4EF4-9A0C-9D74AE0B87C5}|BehrensGroup_MiddlewareIQ\\BehrensGroup_MiddlewareIQ.csproj|c:\\users\\ryanc\\onedrive\\learning\\c#\\behrensiqservice-new\\behrensgroup_iq_middleware\\behrensgroup_middlewareiq\\tools\\logfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FDACCD9-88B0-4EF4-9A0C-9D74AE0B87C5}|BehrensGroup_MiddlewareIQ\\BehrensGroup_MiddlewareIQ.csproj|solutionrelative:behrensgroup_middlewareiq\\tools\\logfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FDACCD9-88B0-4EF4-9A0C-9D74AE0B87C5}|BehrensGroup_MiddlewareIQ\\BehrensGroup_MiddlewareIQ.csproj|c:\\users\\ryanc\\onedrive\\learning\\c#\\behrensiqservice-new\\behrensgroup_iq_middleware\\behrensgroup_middlewareiq\\tools\\miscfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FDACCD9-88B0-4EF4-9A0C-9D74AE0B87C5}|BehrensGroup_MiddlewareIQ\\BehrensGroup_MiddlewareIQ.csproj|solutionrelative:behrensgroup_middlewareiq\\tools\\miscfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA70BB9-FAC7-494B-9454-75FD1A2A6F62}|BehrensGroup_ClassLibrary\\BehrensGroup_ClassLibrary.csproj|c:\\users\\ryanc\\onedrive\\learning\\c#\\behrensiqservice-new\\behrensgroup_iq_middleware\\behrensgroup_classlibrary\\object\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDA70BB9-FAC7-494B-9454-75FD1A2A6F62}|BehrensGroup_ClassLibrary\\BehrensGroup_ClassLibrary.csproj|solutionrelative:behrensgroup_classlibrary\\object\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA70BB9-FAC7-494B-9454-75FD1A2A6F62}|BehrensGroup_ClassLibrary\\BehrensGroup_ClassLibrary.csproj|c:\\users\\ryanc\\onedrive\\learning\\c#\\behrensiqservice-new\\behrensgroup_iq_middleware\\behrensgroup_classlibrary\\baseclasses\\genericclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDA70BB9-FAC7-494B-9454-75FD1A2A6F62}|BehrensGroup_ClassLibrary\\BehrensGroup_ClassLibrary.csproj|solutionrelative:behrensgroup_classlibrary\\baseclasses\\genericclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductAssemblies.cs",
+              "DocumentMoniker": "C:\\Users\\ryanc\\OneDrive\\Learning\\C#\\BehrensiQService-New\\BehrensGroup_iQ_Middleware\\BehrensGroup_MiddlewareIQ\\Inbound\\Objects\\ProductAssemblies.cs",
+              "RelativeDocumentMoniker": "BehrensGroup_MiddlewareIQ\\Inbound\\Objects\\ProductAssemblies.cs",
+              "ToolTip": "C:\\Users\\ryanc\\OneDrive\\Learning\\C#\\BehrensiQService-New\\BehrensGroup_iQ_Middleware\\BehrensGroup_MiddlewareIQ\\Inbound\\Objects\\ProductAssemblies.cs",
+              "RelativeToolTip": "BehrensGroup_MiddlewareIQ\\Inbound\\Objects\\ProductAssemblies.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T09:19:24.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CSVReader.cs",
+              "DocumentMoniker": "C:\\Users\\ryanc\\OneDrive\\Learning\\C#\\BehrensiQService-New\\BehrensGroup_iQ_Middleware\\BehrensGroup_MiddlewareIQ\\Tools\\CSVReader.cs",
+              "RelativeDocumentMoniker": "BehrensGroup_MiddlewareIQ\\Tools\\CSVReader.cs",
+              "ToolTip": "C:\\Users\\ryanc\\OneDrive\\Learning\\C#\\BehrensiQService-New\\BehrensGroup_iQ_Middleware\\BehrensGroup_MiddlewareIQ\\Tools\\CSVReader.cs",
+              "RelativeToolTip": "BehrensGroup_MiddlewareIQ\\Tools\\CSVReader.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T09:18:59.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FTPFunctions.cs",
+              "DocumentMoniker": "C:\\Users\\ryanc\\OneDrive\\Learning\\C#\\BehrensiQService-New\\BehrensGroup_iQ_Middleware\\BehrensGroup_MiddlewareIQ\\Tools\\FTPFunctions.cs",
+              "RelativeDocumentMoniker": "BehrensGroup_MiddlewareIQ\\Tools\\FTPFunctions.cs",
+              "ToolTip": "C:\\Users\\ryanc\\OneDrive\\Learning\\C#\\BehrensiQService-New\\BehrensGroup_iQ_Middleware\\BehrensGroup_MiddlewareIQ\\Tools\\FTPFunctions.cs",
+              "RelativeToolTip": "BehrensGroup_MiddlewareIQ\\Tools\\FTPFunctions.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T09:18:53.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MiscFunctions.cs",
+              "DocumentMoniker": "C:\\Users\\ryanc\\OneDrive\\Learning\\C#\\BehrensiQService-New\\BehrensGroup_iQ_Middleware\\BehrensGroup_MiddlewareIQ\\Tools\\MiscFunctions.cs",
+              "RelativeDocumentMoniker": "BehrensGroup_MiddlewareIQ\\Tools\\MiscFunctions.cs",
+              "ToolTip": "C:\\Users\\ryanc\\OneDrive\\Learning\\C#\\BehrensiQService-New\\BehrensGroup_iQ_Middleware\\BehrensGroup_MiddlewareIQ\\Tools\\MiscFunctions.cs",
+              "RelativeToolTip": "BehrensGroup_MiddlewareIQ\\Tools\\MiscFunctions.cs",
+              "ViewState": "AQIAAKAAAAAAAAAAAAAAALsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T09:18:30.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogFile.cs",
+              "DocumentMoniker": "C:\\Users\\ryanc\\OneDrive\\Learning\\C#\\BehrensiQService-New\\BehrensGroup_iQ_Middleware\\BehrensGroup_MiddlewareIQ\\Tools\\LogFile.cs",
+              "RelativeDocumentMoniker": "BehrensGroup_MiddlewareIQ\\Tools\\LogFile.cs",
+              "ToolTip": "C:\\Users\\ryanc\\OneDrive\\Learning\\C#\\BehrensiQService-New\\BehrensGroup_iQ_Middleware\\BehrensGroup_MiddlewareIQ\\Tools\\LogFile.cs",
+              "RelativeToolTip": "BehrensGroup_MiddlewareIQ\\Tools\\LogFile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T09:18:27.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Branch.cs",
+              "DocumentMoniker": "C:\\Users\\ryanc\\OneDrive\\Learning\\C#\\BehrensiQService-New\\BehrensGroup_iQ_Middleware\\BehrensGroup_ClassLibrary\\Object\\Branch.cs",
+              "RelativeDocumentMoniker": "BehrensGroup_ClassLibrary\\Object\\Branch.cs",
+              "ToolTip": "C:\\Users\\ryanc\\OneDrive\\Learning\\C#\\BehrensiQService-New\\BehrensGroup_iQ_Middleware\\BehrensGroup_ClassLibrary\\Object\\Branch.cs",
+              "RelativeToolTip": "BehrensGroup_ClassLibrary\\Object\\Branch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T09:18:17.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GenericClass.cs",
+              "DocumentMoniker": "C:\\Users\\ryanc\\OneDrive\\Learning\\C#\\BehrensiQService-New\\BehrensGroup_iQ_Middleware\\BehrensGroup_ClassLibrary\\BaseClasses\\GenericClass.cs",
+              "RelativeDocumentMoniker": "BehrensGroup_ClassLibrary\\BaseClasses\\GenericClass.cs",
+              "ToolTip": "C:\\Users\\ryanc\\OneDrive\\Learning\\C#\\BehrensiQService-New\\BehrensGroup_iQ_Middleware\\BehrensGroup_ClassLibrary\\BaseClasses\\GenericClass.cs",
+              "RelativeToolTip": "BehrensGroup_ClassLibrary\\BaseClasses\\GenericClass.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T09:15:56.005Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -12,7 +12,7 @@ namespace Behrens_iQ_ClassLibrary.Functions
         {
             var client = new RestClient("https://api.behrens.co.uk:1026/");
             var request = new RestRequest(apirequest, method);
-            request.AddHeader("Authorization", "Bearer OTg3ZGZlY2MtZDRhZC00OTAwLThiMD");
+            request.AddHeader("Authorization", "Bearer ExampleBearerToken");
 
 
             return client.Execute(request);
